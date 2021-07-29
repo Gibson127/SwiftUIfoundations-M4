@@ -1,0 +1,14 @@
+[
+{
+    "name": "Classic",
+    "toppings": ["Pepperoni, Mushroom, Olive"]
+},
+{
+    "name": "Cowboy",
+    "toppings": ["Pepperoni, Olive, Sausage, Mushroom, Onion"]
+},
+{
+    "name": "Cheese",
+    "toppings": ["Mozzerella, Asiago"]
+}
+]
