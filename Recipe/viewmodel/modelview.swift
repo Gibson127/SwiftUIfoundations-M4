@@ -7,7 +7,7 @@
 
 import Foundation
 
-class RecipeModel: Identifiable {
+class RecipeModel: ObservableObject {
     
     @Published var recipes = [RecipeStructure]()
  
